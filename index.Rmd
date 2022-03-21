@@ -1,0 +1,8 @@
+---
+title: "Joshua Hudson Data Science Website"
+author: "Hudson"
+date: "3/21/2022"
+output: html_document
+---
+
+# This site showcases projects and course work that Joshua Hudson completed during the first semester of his Master's in Data Science program. 
