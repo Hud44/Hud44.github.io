@@ -1,0 +1,17 @@
+---
+title: "Hudson Data Science Website"
+author: "Hudson"
+date: "3/21/2022"
+output: html_document
+---
+
+# This site showcases projects and course work that Joshua Hudson completed during the first semester of his Master's in Data Science program. 
+## About Me:
+### Name: Hud
+### From: Texas
+### Interests: Family/Friends
+### Work: QE in Manufacturing Plant
+### School: Texas A&M & SMU
+
+
+# The other tabs represent work / analyses that I have completed.  Please check them out!
