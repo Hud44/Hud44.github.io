@@ -1,8 +1,0 @@
-name: "my-website"
-navbar:
-  title: "Joshua Hudson Data Science Website"
-  left:
-    - text: "About Me"
-      href: index.html
-    - text: "Case Study 01"
-      href: Joshua_Hudson_Case_Study_01_Code.html
